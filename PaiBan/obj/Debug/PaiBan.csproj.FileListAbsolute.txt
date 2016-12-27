@@ -1,0 +1,16 @@
+M:\Project\PaiBan\PaiBan\bin\Debug\PaiBan.exe.config
+M:\Project\PaiBan\PaiBan\bin\Debug\PaiBan.exe
+M:\Project\PaiBan\PaiBan\bin\Debug\PaiBan.pdb
+M:\Project\PaiBan\PaiBan\bin\Debug\CSkin.dll
+M:\Project\PaiBan\PaiBan\bin\Debug\CSkin.xml
+M:\Project\PaiBan\PaiBan\obj\Debug\PaiBan.csprojResolveAssemblyReference.cache
+M:\Project\PaiBan\PaiBan\obj\Debug\PaiBan.Form1.resources
+M:\Project\PaiBan\PaiBan\obj\Debug\PaiBan.Properties.Resources.resources
+M:\Project\PaiBan\PaiBan\obj\Debug\PaiBan.csproj.GenerateResource.Cache
+M:\Project\PaiBan\PaiBan\obj\Debug\PaiBan.exe
+M:\Project\PaiBan\PaiBan\obj\Debug\PaiBan.pdb
+M:\Project\PaiBan\PaiBan\obj\Debug\PaiBan.TianjiaYuanGong.resources
+M:\Project\PaiBan\PaiBan\obj\Debug\PaiBan.PaiBanGuanLi.resources
+M:\Project\PaiBanBiao\PaiBan\bin\Debug\PaiBan.exe.config
+M:\Project\PaiBanBiao\PaiBan\obj\Debug\PaiBan.exe
+M:\Project\PaiBanBiao\PaiBan\obj\Debug\PaiBan.pdb
